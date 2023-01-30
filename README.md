@@ -6,5 +6,6 @@ Bot searches Youtube content and sends info and links to selected recipient
 
 ### Шаги для запуска Бота:
 - Зарегестрировать Бота в Telegramm [согласно иструкции](https://tlgrm.ru/docs/bots#botfather)
-- Ключ (токен) для бота подставить в файл [tm_bot.py]()
+- Ключ (токен) для бота подставить в файл [tm_bot.py]():
+``scratching_bot = Bot(token=os.getenv('здесь ваш токен'))``
 
