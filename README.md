@@ -1,6 +1,6 @@
-# Простой Inline bot для Telegramm
+# Простой Inline bot для Telegram
 Bot searches Youtube content and sends info and links to selected recipient
-## Бот выполняет поиск информации на Youtube по заданному слову или словам и отправляет ссылки выбранному пользователю в Телеграмм
+## Бот выполняет поиск информации на Youtube по заданному слову или словам и отправляет ссылки выбранному пользователю в Телеграм
 
 ---
 
